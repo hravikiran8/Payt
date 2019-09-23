@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Pay.servlet.SampleServletApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.815 sec - in Pay.servlet.SampleServletApplicationTests
